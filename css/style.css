@@ -688,7 +688,7 @@ button:focus-visible {
 	}
 }
 
-@media (max-width: 615px) {
+@media (max-width: 635px) {
 	.hero {
 		min-height: auto;
 		text-align: center;
